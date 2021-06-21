@@ -163,4 +163,8 @@ export { default as transitionDelay } from './transitionDelay'
 export { default as transitionDuration } from './transitionDuration'
 export { default as transitionTimingFunction } from './transitionTimingFunction'
 
+export { default as scrollBehavior } from './scrollBehavior'
+export { default as scrollMargin } from './scrollMargin'
+export { default as scrollPadding } from './scrollPadding'
+
 export { default as content } from './content'
