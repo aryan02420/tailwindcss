@@ -949,6 +949,8 @@ module.exports = {
     scrollBehavior: ['responsive'],
     scrollMargin: ['responsive'],
     scrollPadding: ['responsive'],
+    scrollSnapAlign: ['responsive'],
+    scrollSnapType: ['responsive'],
     sepia: ['responsive'],
     skew: ['responsive', 'hover', 'focus'],
     space: ['responsive'],

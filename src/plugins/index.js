@@ -166,5 +166,7 @@ export { default as transitionTimingFunction } from './transitionTimingFunction'
 export { default as scrollBehavior } from './scrollBehavior'
 export { default as scrollMargin } from './scrollMargin'
 export { default as scrollPadding } from './scrollPadding'
+export { default as scrollSnapAlign } from './scrollSnapAlign'
+export { default as scrollSnapType } from './scrollSnapType'
 
 export { default as content } from './content'
